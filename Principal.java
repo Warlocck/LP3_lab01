@@ -17,7 +17,7 @@ public class Principal {
             }
         } while (vida < 3 && !fl);
         if (fl){
-            System.out.println("Adivinaste!!!");
+            System.out.println("Adivinaste!!!, acabas de ganar un dulce");
         }
         else
             System.out.println("ups, perdiste...");
